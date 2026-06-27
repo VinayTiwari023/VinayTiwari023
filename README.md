@@ -151,7 +151,7 @@ QR-based check-in with ML Kit face capture and real-time attendance sync. Deploy
 
 ---
 
-## 💼 Currently
+## 💼 Currently 
 
 <div align="center">
 

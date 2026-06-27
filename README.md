@@ -1,116 +1,171 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=120&section=header&animation=fadeIn" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Vinay%20Kumar&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=55&desc=Android%20%26%20Flutter%20Developer%20%7C%20Enterprise%20Mobility&descSize=16&descAlignY=75&descColor=8b949e" width="100%"/>
+
 </div>
 
-<h1 align="center">Vinay Kumar</h1>
-<h3 align="center">Android & Flutter Developer · Enterprise Mobility Specialist</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinay-kumar-android">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://vinay-portfolio-beryl.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:vinaytiwari7011@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/vinay-kumar-android">
-    <img src="https://img.shields.io/badge/Open%20To%20Work-2ea44f?style=for-the-badge" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=58a6ff&center=true&vCenter=true&multiline=true&width=680&height=70&lines=Building+HHT+%2B+ERP+%2F+WMS+apps+for+real+warehouse+ops+%F0%9F%8F%AD;Zebra+EMDK+%7C+NLS+SDK+%7C+DataWedge+%7C+ZPL+%7C+ESC%2FPOS;Curious+enough+to+read+the+SDK+docs+%F0%9F%94%8D+Practical+enough+to+ship+%F0%9F%9A%80" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Building+HHT+%2B+ERP+%2F+WMS+apps+for+real+ops;Zebra+EMDK+%7C+NLS+SDK+%7C+DataWedge+%7C+ZPL;500%2B+daily+scans+%7C+99.9%25+accuracy;Open+to+Android+%2F+Flutter+roles" alt="Typing SVG" />
-</p>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://www.linkedin.com/in/vinay-kumar-android)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d1117)](https://vinay-portfolio-beryl.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=f85149&labelColor=0d1117)](mailto:vinaytiwari7011@gmail.com)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_Work-0d1117?style=for-the-badge&logoColor=3fb950&labelColor=0d1117&color=3fb950)](https://www.linkedin.com/in/vinay-kumar-android)
+
+</div>
 
 ---
 
-### `$ whoami`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=3&section=header" width="100%"/>
+
+## `whoami`
 
 ```kotlin
 data class Developer(
-    val name: String       = "Vinay Kumar",
-    val role: String       = "Android & Flutter Developer",
-    val experience: String = "2+ Years",
-    val location: String   = "Gurugram, India",
-    val domain: String     = "Enterprise Mobility · WMS · ERP · HHT Integrations",
-    val notice: String     = "30 Days"
+    val name       : String       = "Vinay Kumar",
+    val location   : String       = "Gurugram, India 📍",
+    val role       : String       = "Android & Flutter Developer",
+    val experience : String       = "2+ Years",
+    val domain     : String       = "Enterprise Mobility · WMS · ERP · HHT",
+    val sdks       : List<String> = listOf(
+                         "Zebra EMDK", "DataWedge",
+                         "NLS SDK", "Honeywell SDK",
+                         "ESC/POS", "ZPL"
+                     ),
+    val currently  : String       = "Always learning something new 🔍",
+    val notice     : String       = "30 Days"
 )
-I build production-grade Android & Flutter apps for warehouse, logistics, and field operations — integrating barcode hardware (Zebra, Honeywell, Newland), ERP/WMS backends, and thermal label printing at scale.
+```
 
-📊 Impact at a Glance
+> I build **production-grade Android & Flutter apps** for warehouse, logistics, and field ops — integrating barcode hardware, ERP/WMS backends, and thermal label printing at scale. When I'm not shipping, I'm reading SDK docs for hardware I haven't touched yet 😄
+
+---
+
+## 📊 Impact at a Glance
+
 <div align="center">
-Metric	Value
-📦 Daily barcode scans handled	500+
-🏷️ Thermal labels printed per day	1,000+
-⚡ Reduction in manual data entry	70%
-✅ Scan accuracy	99.9%
-🚛 Vehicle dispatches automated daily	20+
-🏢 Enterprise client	Vantara
+
+<img src="https://github-readme-stats.vercel.app/api?username=VinayTiwari023&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_color=30363d" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayTiwari023&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d" height="160"/>
+
 </div>
-🛠️ Tech Stack
-Mobile
-https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white
-https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white
-https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white
-https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white
 
-Architecture & State
-https://img.shields.io/badge/MVVM-FF6F00?style=flat-square
-https://img.shields.io/badge/BLoC-13B9FD?style=flat-square
-https://img.shields.io/badge/Provider-764ABC?style=flat-square
-https://img.shields.io/badge/Room-4285F4?style=flat-square&logo=google&logoColor=white
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VinayTiwari023&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" />
+</div>
 
-Hardware SDKs
-https://img.shields.io/badge/Zebra_EMDK-FF6600?style=flat-square
-https://img.shields.io/badge/DataWedge-FF6600?style=flat-square
-https://img.shields.io/badge/NLS_SDK-006400?style=flat-square
-https://img.shields.io/badge/Honeywell_SDK-E2231A?style=flat-square
-https://img.shields.io/badge/ESC%252FPOS-333333?style=flat-square
-https://img.shields.io/badge/ZPL-333333?style=flat-square
+<br/>
 
-Backend & Tools
-https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black
-https://img.shields.io/badge/REST_APIs-005571?style=flat-square
-https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
-https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white
+<div align="center">
 
-🚀 Featured Projects
-<details> <summary><b>🏭 WMS — Warehouse Management System</b> (Seabird · Play Store)</summary>
-Flutter · BLoC · Zebra EMDK · ESC/POS · ZPL · REST APIs
+![500+ Daily Scans](https://img.shields.io/badge/500%2B-Daily_Scans-0d1117?style=for-the-badge&labelColor=161b22&color=58a6ff)
+![1000+ Labels/Day](https://img.shields.io/badge/1000%2B-Labels%2FDay-0d1117?style=for-the-badge&labelColor=161b22&color=3fb950)
+![70% Less Manual Work](https://img.shields.io/badge/70%25-Less_Manual_Work-0d1117?style=for-the-badge&labelColor=161b22&color=d2a8ff)
+![99.9% Scan Accuracy](https://img.shields.io/badge/99.9%25-Scan_Accuracy-0d1117?style=for-the-badge&labelColor=161b22&color=ffa657)
+![20+ Dispatches/Day](https://img.shields.io/badge/20%2B-Dispatches%2FDay-0d1117?style=for-the-badge&labelColor=161b22&color=f85149)
+![Vantara](https://img.shields.io/badge/Client-Vantara-0d1117?style=for-the-badge&labelColor=161b22&color=58a6ff)
 
-End-to-end warehouse operations app: inward, grading, picklist, challan, and POD flows. Integrated Zebra scanners via EMDK/DataWedge and thermal label printing (1,000+ labels/day). Deployed to client warehouses including Vantara, replacing 70% of manual data entry.
+</div>
 
-</details><details> <summary><b>📦 TMS — Transport Management System</b> (Seabird · Play Store)</summary>
-Flutter · BLoC · REST APIs · Firebase
+---
 
-Automates 20+ vehicle dispatches daily — trip planning, driver assignment, live tracking, and POD capture. Reduced dispatcher workload and improved turnaround visibility across fleet operations.
+## 🛠️ Tech Stack
 
-</details><details> <summary><b>🤝 WMS Vendor Portal</b> (Seabird · Play Store)</summary>
-Flutter · Provider · REST APIs
+<div align="center">
 
-Dedicated vendor-facing app for PO tracking, inward confirmation, and challan management — decoupled from the core WMS to give vendors a clean, role-scoped interface.
+**── Languages ──**
 
-</details><details> <summary><b>🏗️ ERP + NLS HHT Integration</b> (SKL — In Production)</summary>
-Android · Java · NLS SDK · Newland HHT · MVVM · REST APIs
+![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF&labelColor=161b22)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=161b22)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=54C5F8&labelColor=161b22)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=161b22)
 
-Enterprise ERP app for precast manufacturing workflows, integrated with Newland HHT devices via NLS SDK for native barcode scanning. Covers full workflow: material inward → grading → picklist → dispatch.
+**── Architecture & State ──**
 
-</details><details> <summary><b>🏢 EMS & VMS</b> (Seabird · Play Store)</summary>
-Flutter · Provider · Firebase · ML Kit
+![MVVM](https://img.shields.io/badge/MVVM-0d1117?style=for-the-badge&labelColor=161b22&color=58a6ff)
+![BLoC](https://img.shields.io/badge/BLoC-0d1117?style=for-the-badge&labelColor=161b22&color=58a6ff)
+![Provider](https://img.shields.io/badge/Provider-0d1117?style=for-the-badge&labelColor=161b22&color=58a6ff)
+![Room](https://img.shields.io/badge/Room%2FSQLite-0d1117?style=for-the-badge&labelColor=161b22&color=58a6ff)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0d1117?style=for-the-badge&labelColor=161b22&color=58a6ff)
 
-Employee and Visitor Management apps with QR-based check-in, ML Kit face capture, and real-time attendance sync. Live in production across multiple sites.
+**── Hardware SDKs ──**
 
-</details>
-📈 GitHub Stats
-<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=VinayTiwari023&show_icons=true&theme=github_dark&hide_border=true&count_private=true" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayTiwari023&layout=compact&theme=github_dark&hide_border=true&langs_count=6" /> </div>
-💼 Currently
-🏢 Android Developer @ Sat Kabir Logistics — building ERP + WMS apps with Newland HHT/NLS SDK for precast workflows
+![Zebra EMDK](https://img.shields.io/badge/Zebra_EMDK-0d1117?style=for-the-badge&labelColor=161b22&color=ffa657)
+![DataWedge](https://img.shields.io/badge/DataWedge-0d1117?style=for-the-badge&labelColor=161b22&color=ffa657)
+![NLS SDK](https://img.shields.io/badge/NLS_SDK-0d1117?style=for-the-badge&labelColor=161b22&color=ffa657)
+![Honeywell SDK](https://img.shields.io/badge/Honeywell_SDK-0d1117?style=for-the-badge&labelColor=161b22&color=ffa657)
+![ESC/POS](https://img.shields.io/badge/ESC%2FPOS-0d1117?style=for-the-badge&labelColor=161b22&color=ffa657)
+![ZPL](https://img.shields.io/badge/ZPL_Labels-0d1117?style=for-the-badge&labelColor=161b22&color=ffa657)
 
-👀 Open to Android / Flutter roles — enterprise, product-based, or startup
+**── Backend & Tools ──**
 
-📍 Gurugram, India · 30-day notice period
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=161b22)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&labelColor=161b22&color=3fb950)
+![ML Kit](https://img.shields.io/badge/ML_Kit-0d1117?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=161b22)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=161b22)
+![Android Studio](https://img.shields.io/badge/Android_Studio-0d1117?style=for-the-badge&logo=androidstudio&logoColor=3DDC84&labelColor=161b22)
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=80&section=footer" width="100%" /> <p><em>"Ship clean code. Scan fast. Print labels."</em></p> </div>
+</div>
+
+---
+
+## 🚀 Projects Shipped
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2" width="100%"/>
+
+### 🏭 WMS — Warehouse Management System &nbsp; ![Play Store](https://img.shields.io/badge/Play_Store-Live-3fb950?style=flat-square&logo=googleplay&logoColor=white&labelColor=161b22)
+`Flutter` `BLoC` `Zebra EMDK` `DataWedge` `ESC/POS` `ZPL` `REST APIs`
+
+End-to-end warehouse ops — inward, grading, picklist, challan, POD. Zebra HHT integration via EMDK & DataWedge for **500+ daily scans at 99.9% accuracy**. Thermal label printing at **1,000+ labels/day**. Replaced 70% of manual data entry. Live at **Vantara**.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2" width="100%"/>
+
+### 🚛 TMS — Transport Management System &nbsp; ![Play Store](https://img.shields.io/badge/Play_Store-Live-3fb950?style=flat-square&logo=googleplay&logoColor=white&labelColor=161b22)
+`Flutter` `BLoC` `REST APIs` `Firebase`
+
+Automates **20+ vehicle dispatches daily** — trip planning, driver assignment, live tracking, POD capture. Gave dispatchers real-time fleet visibility and cut turnaround time significantly.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2" width="100%"/>
+
+### 🤝 WMS Vendor Portal &nbsp; ![Play Store](https://img.shields.io/badge/Play_Store-Live-3fb950?style=flat-square&logo=googleplay&logoColor=white&labelColor=161b22)
+`Flutter` `Provider` `REST APIs`
+
+Separate vendor-facing app (distinct from WMS) for PO tracking, inward confirmation, and challan management. Role-scoped, lean, purpose-built.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2" width="100%"/>
+
+### 🏗️ ERP + NLS HHT Integration &nbsp; ![In Production](https://img.shields.io/badge/SKL-In_Production-58a6ff?style=flat-square&labelColor=161b22)
+`Android` `Java` `Kotlin` `NLS SDK` `Newland HHT` `MVVM` `REST APIs`
+
+Enterprise ERP for precast manufacturing workflows — natively integrated with Newland HHT devices via NLS SDK. Covers full flow: inward → grading → picklist → dispatch. My most technically complex project to date — native Java bridge, custom scan listeners, platform channels.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2" width="100%"/>
+
+### 👤 EMS & VMS — Employee & Visitor Management &nbsp; ![Play Store](https://img.shields.io/badge/Play_Store-Live-3fb950?style=flat-square&logo=googleplay&logoColor=white&labelColor=161b22)
+`Flutter` `Provider` `Firebase` `ML Kit`
+
+QR-based check-in with ML Kit face capture and real-time attendance sync. Deployed across multiple sites. Taught me a lot about camera edge cases on mid-range Android devices.
+
+---
+
+## 💼 Currently
+
+<div align="center">
+
+![SKL](https://img.shields.io/badge/🏢_Sat_Kabir_Logistics-Android_Developer-0d1117?style=for-the-badge&labelColor=161b22&color=58a6ff)
+![Exploring](https://img.shields.io/badge/🧠_Exploring-Jetpack_Compose_%7C_Kotlin_Flows-0d1117?style=for-the-badge&labelColor=161b22&color=d2a8ff)
+![Notice](https://img.shields.io/badge/⏱_Notice_Period-30_Days-0d1117?style=for-the-badge&labelColor=161b22&color=3fb950)
+![Open](https://img.shields.io/badge/🎯_Open_For-Android_%2F_Flutter_Roles-0d1117?style=for-the-badge&labelColor=161b22&color=ffa657)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer&text=Let%27s%20build%20something%20real.&fontSize=20&fontColor=58a6ff&animation=fadeIn&fontAlignY=65" width="100%"/>
+
+</div>

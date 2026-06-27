@@ -1,16 +1,56 @@
-## Hi there 👋
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<!--
-**VinayTiwari023/VinayTiwari023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Vinay Kumar
 
-Here are some ideas to get you started:
+🚀 Flutter & Android Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Gurgaon, India
+
+💼 2+ Years Experience
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠 Tech Stack
+
+⚡ Flutter
+⚡ Dart
+⚡ Java
+⚡ Firebase
+⚡ REST API
+⚡ Git
+⚡ SQLite
+⚡ MVVM
+⚡ Bluetooth Printing
+⚡ Zebra DataWedge
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📦 Featured Projects
+
+🚚 Warehouse Management System
+
+📱 Enterprise Logistics Apps
+
+🖨 Bluetooth Label Printing
+
+📷 Barcode Scanning
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 GitHub Stats
+
+🔥 Streak
+
+💻 Most Used Languages
+
+🐍 Contribution Snake
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌐 Portfolio
+
+💼 LinkedIn
+
+📧 Email
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

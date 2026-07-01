@@ -27,11 +27,12 @@ data class Developer(
     val experience: String = "3+ Years",
     val location: String   = "Gurugram, India",
     val domain: String     = "Enterprise Mobility · WMS · ERP · HHT Integrations",
+    val lookingFor: String = "Android/Flutter roles — enterprise or product-based",
     val notice: String     = "15 Days"
 )
 ```
 
-> I build **production-grade Android & Flutter apps** for warehouse, logistics, and field operations — integrating barcode hardware (Zebra, Honeywell, Newland), ERP/WMS backends, and thermal label printing at scale.
+> I build **production-grade Android & Flutter apps** for warehouse, logistics, and field operations — integrating barcode hardware (Zebra, Honeywell, Newland), ERP/WMS backends, and thermal label printing at scale. I read the SDK docs nobody wants to, so the scanner works the first time.
 
 ---
 
@@ -180,23 +181,22 @@ Expense tracking app with real-time workflows and responsive enterprise UI.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=VinayTiwari023&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayTiwari023&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=VinayTiwari023&show_icons=true&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayTiwari023&layout=compact&theme=graywhite&hide_border=true&langs_count=6" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VinayTiwari023&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VinayTiwari023&theme=default&hide_border=true" />
 
 </div>
 
 ---
 
-## 💼 Currently
+## 🎯 What I'm Looking For
 
-- 🏢 **Android Developer @ Sat Kabir Logistics** — building ERP + WMS apps with Newland HHT/NLS SDK for precast workflows
-- 🧠 **Exploring** Jetpack Compose · Kotlin Flows · Multi-module Architecture
-- 👀 **Open to** Android / Flutter roles — enterprise, product-based, or startup
-- 📍 Gurugram, India · **15-day notice period**
+Android / Flutter roles — enterprise mobility or product-based — where I can keep owning features end-to-end, from hardware integration through to Play Store release. Open to relocating within India for the right opportunity.
+
+📍 Gurugram, India · **15-day notice period**
 
 ---
 

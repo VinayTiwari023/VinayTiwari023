@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=120&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=120&section=header&animation=fadeIn&text=Vinay%20Kumar&fontSize=36&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
-# Vinay Kumar
 ### Android & Flutter Developer · Enterprise Mobility Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Building+HHT+%2B+ERP+%2F+WMS+apps+for+real+ops;Zebra+EMDK+%7C+NLS+SDK+%7C+DataWedge+%7C+ZPL;500%2B+daily+scans+%7C+95%25+ML+Kit+accuracy;Open+to+Android+%2F+Flutter+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&multiline=true&repeat=true&width=440&height=80&lines=Building+HHT+%2B+ERP%2FWMS+apps+for+real+ops;500%2B+daily+scans+%7C+95%25+ML+Kit+accuracy;Open+to+Android+%2F+Flutter+roles" alt="Typing SVG" />
 
 <br/>
 
@@ -16,7 +15,7 @@
 
 </div>
 
----
+<br/>
 
 ## `$ whoami`
 
@@ -34,34 +33,32 @@ data class Developer(
 
 > I build **production-grade Android & Flutter apps** for warehouse, logistics, and field operations — integrating barcode hardware (Zebra, Honeywell, Newland), ERP/WMS backends, and thermal label printing at scale. I read the SDK docs nobody wants to, so the scanner works the first time.
 
----
+<br/>
 
 ## 📊 Impact at a Glance
 
 <div align="center">
 
-| Metric | Value |
-|--------|-------|
-| 📦 Daily barcode scans handled | **500+** |
-| 🏷️ Thermal labels printed per day | **1,000+** |
-| ⚡ Reduction in manual data entry | **70%** |
-| ✅ ML Kit scan accuracy | **95%** |
-| 🚛 Vehicle dispatches automated daily | **20+** |
-| 👥 Daily field staff users | **50–200** |
-| 🏢 Enterprise client | **Vantara** |
+![Scans](https://img.shields.io/badge/📦_Daily_Scans-500+-1F6FEB?style=for-the-badge&labelColor=0D1117)
+![Labels](https://img.shields.io/badge/🏷️_Labels%2FDay-1000+-1F6FEB?style=for-the-badge&labelColor=0D1117)
+![Manual Entry](https://img.shields.io/badge/⚡_Manual_Entry_↓-70%25-2ea44f?style=for-the-badge&labelColor=0D1117)
+![Accuracy](https://img.shields.io/badge/✅_ML_Kit_Accuracy-95%25-2ea44f?style=for-the-badge&labelColor=0D1117)
+![Dispatch](https://img.shields.io/badge/🚛_Dispatches%2FDay-20+-1F6FEB?style=for-the-badge&labelColor=0D1117)
+![Users](https://img.shields.io/badge/👥_Daily_Users-50--200-1F6FEB?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
----
+*(Metrics shown as badges instead of a table so they reflow cleanly on small screens.)*
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-**Mobile**
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,dart,firebase,git,postman&perline=8" alt="Skill Icons" />
+
+</div>
 
 **Architecture & State**
 ![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=flat-square)
@@ -69,8 +66,12 @@ data class Developer(
 ![Provider](https://img.shields.io/badge/Provider-764ABC?style=flat-square)
 ![Room](https://img.shields.io/badge/Room%2FSQLite-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-555555?style=flat-square)
+![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
 
-**Hardware SDKs**
+<details>
+<summary><b>🔧 Hardware SDKs & Enterprise Integrations</b> (click to expand)</summary>
+<br/>
+
 ![Zebra EMDK](https://img.shields.io/badge/Zebra_EMDK-FF6600?style=flat-square)
 ![DataWedge](https://img.shields.io/badge/DataWedge-FF6600?style=flat-square)
 ![NLS SDK](https://img.shields.io/badge/NLS_SDK-006400?style=flat-square)
@@ -78,15 +79,11 @@ data class Developer(
 ![Cipherlab](https://img.shields.io/badge/Cipherlab-333333?style=flat-square)
 ![ESC/POS](https://img.shields.io/badge/ESC%2FPOS-333333?style=flat-square)
 ![ZPL](https://img.shields.io/badge/ZPL-333333?style=flat-square)
-
-**Backend & Tools**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
+</details>
+
+<br/>
 
 ## 💼 Work Experience
 
@@ -102,7 +99,7 @@ data class Developer(
 
 `Android` `Flutter` `Kotlin` `Java` `MVVM` `Room/SQLite` `NLS SDK` `Newland HHT` `REST APIs`
 
----
+<br/>
 
 ### 🏢 Software Developer (Android & Flutter) — Seabird Logisolutions
 ![Duration](https://img.shields.io/badge/Jul_2023–Apr_2026-0077B5?style=flat-square)
@@ -117,80 +114,108 @@ data class Developer(
 
 `Flutter` `Android` `Java` `Kotlin` `BLoC` `Provider` `MVVM` `Firebase` `Zebra EMDK` `DataWedge` `Honeywell SDK`
 
----
+<br/>
 
 ## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="100%">
 
 ### 🏭 WMS-GNOSIS — Warehouse Management System
 ![Seabird](https://img.shields.io/badge/Seabird_Logisolutions-Enterprise_Deploy-FF6F00?style=flat-square)
 ![Client](https://img.shields.io/badge/Client-Vantara-0077B5?style=flat-square)
 
-> Flutter · Java · Provider · MVVM · Zebra EMDK · Honeywell SDK · ESC/POS · ZPL
+`Flutter` `Java` `Provider` `MVVM` `Zebra EMDK` `Honeywell SDK` `ESC/POS` `ZPL`
 
 Scalable WMS deployed across **3 warehouses**, running on smartphones + Honeywell HHT + Zebra HHT. Cross-platform Flutter app with native Java bridge integration. ML Kit-based crate scanning (**95% accuracy**), Bluetooth printing (**1,000+ labels/day**), **500+ daily scans**, **20+ vehicle dispatches/day**, **70% reduction** in manual data entry.
 
----
+</td>
+</tr>
+<tr>
+<td width="100%">
 
 ### 🤝 WMS Vendor Portal
 ![Seabird](https://img.shields.io/badge/Seabird_Logisolutions-Enterprise_Deploy-FF6F00?style=flat-square)
 ![Client](https://img.shields.io/badge/Client-Vantara-0077B5?style=flat-square)
 
-> Flutter · Provider · REST APIs
+`Flutter` `Provider` `REST APIs`
 
 Vendor-facing app for large-scale industrial logistics. Role-based access, PO creation & tracking, challan and invoice generation — full goods movement workflow end-to-end.
 
----
-
-### 🎫 SLL-Ticketing — Internal Support Ticket App
-![Play Store](https://img.shields.io/badge/Google_Play-Published-3DDC84?style=flat-square&logo=googleplay&logoColor=white)
-
-> Flutter · MVVM · REST APIs · Firebase
-
-Internal support ticket app with secure login, analytics dashboards, and full ticket lifecycle management.
-
----
+</td>
+</tr>
+<tr>
+<td width="100%">
 
 ### 🏗️ ERP + NLS HHT Integration *(SKL — In Production)*
 ![SKL](https://img.shields.io/badge/Sat_Kabir_Logistics-In_Production-2ea44f?style=flat-square)
 
-> Android · Java · Kotlin · NLS SDK · Newland HHT · MVVM · REST APIs
+`Android` `Java` `Kotlin` `NLS SDK` `Newland HHT` `MVVM` `REST APIs`
 
 Enterprise ERP for precast manufacturing — natively integrated with Newland HHT via NLS SDK. Full workflow: inward → grading → picklist → dispatch.
 
----
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🎫 SLL-Ticketing — Internal Support Ticket App
+![Play Store](https://img.shields.io/badge/Google_Play-Published-3DDC84?style=flat-square&logo=googleplay&logoColor=white)
+
+`Flutter` `MVVM` `REST APIs` `Firebase`
+
+Internal support ticket app with secure login, analytics dashboards, and full ticket lifecycle management.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
 
 ### 👤 SLL-VMS — Visitor Management System
 ![Play Store](https://img.shields.io/badge/Google_Play-Published-3DDC84?style=flat-square&logo=googleplay&logoColor=white)
 
-> Android · Java · REST APIs · Material Design
+`Android` `Java` `REST APIs` `Material Design`
 
 Visitor data capture and management with intuitive UI and robust API integration.
 
----
+</td>
+</tr>
+<tr>
+<td width="100%">
 
 ### 💸 Seabird-EMS — Expense Management System
 ![Play Store](https://img.shields.io/badge/Google_Play-Published-3DDC84?style=flat-square&logo=googleplay&logoColor=white)
 
-> Android · Java · REST APIs · Firebase
+`Android` `Java` `REST APIs` `Firebase`
 
 Expense tracking app with real-time workflows and responsive enterprise UI.
 
----
+</td>
+</tr>
+</table>
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=VinayTiwari023&show_icons=true&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayTiwari023&layout=compact&theme=graywhite&hide_border=true&langs_count=6" />
+*(Each project card is single-column so it stacks cleanly on phone-width screens instead of forcing a side-scroll.)*
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VinayTiwari023&theme=default&hide_border=true" />
+## 📈 GitHub Activity
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=VinayTiwari023&color=1F6FEB&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/VinayTiwari023?style=for-the-badge&color=1F6FEB&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/VinayTiwari023?style=for-the-badge&color=2ea44f&labelColor=0D1117)
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/1F6FEB/VinayTiwari023" width="100%" style="max-width:760px" alt="Vinay's GitHub contribution chart"/>
 
 </div>
 
----
+*(Badges pull straight from GitHub's API via shields.io, and the heatmap is a single static SVG — both are far more stable than the old stats-card widgets, which depend on third-party servers that go down or rate-limit.)*
+
+<br/>
 
 ## 🎯 What I'm Looking For
 
@@ -198,7 +223,7 @@ Android / Flutter roles — enterprise mobility or product-based — where I can
 
 📍 Gurugram, India · **15-day notice period**
 
----
+<br/>
 
 <div align="center">
 

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" fill="none">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#101B2C"/><stop offset="1" stop-color="#0B1421"/></linearGradient><linearGradient id="ln" x1="150" y1="150" x2="1050" y2="150" gradientUnits="userSpaceOnUse"><stop stop-color="#60A5FA"/><stop offset="1" stop-color="#34D399"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="388" rx="26" fill="url(#bg)" stroke="#26364A" stroke-width="2"/>
+<text x="54" y="54" fill="#94A3B8" font-family="Inter,Segoe UI,Arial" font-size="14" letter-spacing="3">ONE ENGINEERING FOUNDATION · MANY PRODUCT DOMAINS</text>
+<path d="M600 108V148M205 148H995M205 148V184M468 148V184M732 148V184M995 148V184" stroke="url(#ln)" stroke-width="3" stroke-linecap="round"/>
+<rect x="430" y="78" width="340" height="66" rx="16" fill="#172B42" stroke="#60A5FA"/>
+<text x="600" y="118" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial" font-size="24" font-weight="700" text-anchor="middle">Mobile Product Engineering</text>
+<g font-family="Inter,Segoe UI,Arial">
+ <rect x="54" y="184" width="302" height="142" rx="18" fill="#14243A" stroke="#60A5FA"/>
+ <text x="80" y="221" fill="#93C5FD" font-size="14" font-weight="700" letter-spacing="1.5">BUSINESS & PRODUCTIVITY</text>
+ <text x="80" y="261" fill="#F8FAFC" font-size="24" font-weight="700">CRM · Tasks · Ticketing</text>
+ <text x="80" y="291" fill="#B7C6D8" font-size="16">Workflows · Teams · Customers</text>
+ <rect x="374" y="184" width="188" height="142" rx="18" fill="#19243A" stroke="#A78BFA"/>
+ <text x="398" y="221" fill="#C4B5FD" font-size="14" font-weight="700" letter-spacing="1">CONSUMER</text>
+ <text x="398" y="261" fill="#F8FAFC" font-size="24" font-weight="700">Mobile Apps</text>
+ <text x="398" y="291" fill="#C5C6D8" font-size="16">UX · APIs · Platforms</text>
+ <rect x="580" y="184" width="260" height="142" rx="18" fill="#142D2D" stroke="#34D399"/>
+ <text x="606" y="221" fill="#6EE7B7" font-size="14" font-weight="700" letter-spacing="1.5">INDUSTRY & OPERATIONS</text>
+ <text x="606" y="261" fill="#F8FAFC" font-size="24" font-weight="700">WMS · ERP · TMS</text>
+ <text x="606" y="291" fill="#B8D6CD" font-size="16">Logistics · Manufacturing</text>
+ <rect x="858" y="184" width="288" height="142" rx="18" fill="#14243A" stroke="#38BDF8"/>
+ <text x="884" y="221" fill="#7DD3FC" font-size="14" font-weight="700" letter-spacing="1.5">ENGINEERING CORE</text>
+ <text x="884" y="261" fill="#F8FAFC" font-size="24" font-weight="700">Flutter · Android</text>
+ <text x="884" y="291" fill="#B7C6D8" font-size="16">Architecture · APIs · Offline</text>
+</g>
+</svg>

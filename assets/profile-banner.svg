@@ -1,0 +1,31 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="70" y1="20" x2="1120" y2="360" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#08111F"/><stop offset=".55" stop-color="#101D33"/><stop offset="1" stop-color="#102B35"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="120" y1="70" x2="960" y2="290" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#60A5FA"/><stop offset="1" stop-color="#34D399"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(0 260 -440 0 1000 70)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#2563EB" stop-opacity=".32"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M34 0H0V34" stroke="#94A3B8" stroke-opacity=".08" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="28" fill="url(#glow)"/>
+<rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+<circle cx="1015" cy="180" r="150" stroke="#60A5FA" stroke-opacity=".16"/>
+<circle cx="1015" cy="180" r="112" stroke="#34D399" stroke-opacity=".18"/>
+<circle cx="1015" cy="180" r="72" stroke="#60A5FA" stroke-opacity=".22"/>
+<path d="M890 180H1140M1015 55V305" stroke="#94A3B8" stroke-opacity=".12"/>
+<rect x="953" y="118" width="124" height="124" rx="24" stroke="url(#accent)" stroke-width="2"/>
+<path d="M985 157H1045M985 180H1035M985 203H1022" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+<circle cx="1060" cy="157" r="5" fill="#34D399"/><circle cx="1050" cy="180" r="5" fill="#60A5FA"/>
+<text x="78" y="93" fill="#93C5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="4">ANDROID / FLUTTER / ENTERPRISE MOBILITY</text>
+<text x="74" y="177" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="66" font-weight="750" letter-spacing="-2">Vinay Kumar</text>
+<rect x="80" y="204" width="76" height="4" rx="2" fill="url(#accent)"/>
+<text x="80" y="248" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="500">Building dependable apps for real-world operations.</text>
+<text x="80" y="292" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="1">WMS · ERP · TMS · HHT INTEGRATION · OFFLINE-FIRST</text>
+</svg>

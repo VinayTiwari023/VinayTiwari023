@@ -1,216 +1,234 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Vinay Kumar — Android and Flutter Engineer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=120&section=header&animation=fadeIn&text=Vinay%20Kumar&fontSize=36&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
-### Android & Flutter Engineer · Enterprise Mobility Specialist
+### Android & Flutter Developer · Enterprise Mobility Specialist
 
-Building production applications for **warehouse, manufacturing, transport, and business operations**.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&multiline=true&repeat=true&width=440&height=80&lines=Building+HHT+%2B+ERP%2FWMS+apps+for+real+ops;500%2B+daily+scans+%7C+95%25+ML+Kit+accuracy;Open+to+Android+%2F+Flutter+roles" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://vinay-portfolio-beryl.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-kumar-android)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vk222992@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinayTiwari023)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-kumar-android)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vinay-portfolio-beryl.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vk222992@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20To%20Work-2ea44f?style=for-the-badge)](https://www.linkedin.com/in/vinay-kumar-android)
 
 </div>
 
----
+<br/>
 
-## About
+## `$ whoami`
 
-I'm an **Android and Flutter Engineer** with 3+ years of experience building and supporting enterprise mobile applications.
+```kotlin
+data class Developer(
+    val name: String       = "Vinay Kumar",
+    val role: String       = "Android & Flutter Developer",
+    val experience: String = "3+ Years",
+    val location: String   = "Gurugram, India",
+    val domain: String     = "Enterprise Mobility · WMS · ERP · HHT Integrations",
+    val lookingFor: String = "Android/Flutter roles — enterprise or product-based",
+    val notice: String     = "15 Days"
+)
+```
 
-My work focuses on turning complex operational processes into reliable mobile workflows — from barcode-driven warehouse operations and manufacturing ERP to transport management, offline-first apps, API integrations, and thermal printing.
+> I build **production-grade Android & Flutter apps** for warehouse, logistics, and field operations — integrating barcode hardware (Zebra, Honeywell, Newland), ERP/WMS backends, and thermal label printing at scale. I read the SDK docs nobody wants to, so the scanner works the first time.
 
-- **Core domains:** WMS · ERP · TMS · CRM · Enterprise mobility
-- **Mobile development:** Flutter, Dart, Android, Kotlin, Java
-- **Device integrations:** Zebra, Honeywell, Newland, CipherLab
-- **Engineering focus:** Clean Architecture, MVVM, BLoC, Riverpod, offline-first systems
-- **Based in:** Gurugram, India
+<br/>
 
-> I enjoy solving the engineering problems that make enterprise apps dependable: device compatibility, scan reliability, synchronization, printing, and resilient API workflows.
+## 📊 Impact at a Glance
 
-## What I Build
+<div align="center">
+
+![Scans](https://img.shields.io/badge/📦_Daily_Scans-500+-1F6FEB?style=for-the-badge&labelColor=0D1117)
+![Labels](https://img.shields.io/badge/🏷️_Labels%2FDay-1000+-1F6FEB?style=for-the-badge&labelColor=0D1117)
+![Manual Entry](https://img.shields.io/badge/⚡_Manual_Entry_↓-70%25-2ea44f?style=for-the-badge&labelColor=0D1117)
+![Accuracy](https://img.shields.io/badge/✅_ML_Kit_Accuracy-95%25-2ea44f?style=for-the-badge&labelColor=0D1117)
+![Dispatch](https://img.shields.io/badge/🚛_Dispatches%2FDay-20+-1F6FEB?style=for-the-badge&labelColor=0D1117)
+![Users](https://img.shields.io/badge/👥_Daily_Users-50--200-1F6FEB?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+*(Metrics shown as badges instead of a table so they reflow cleanly on small screens.)*
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,dart,firebase,git,postman&perline=8" alt="Skill Icons" />
+
+</div>
+
+**Architecture & State**
+![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=flat-square)
+![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=flat-square)
+![Provider](https://img.shields.io/badge/Provider-764ABC?style=flat-square)
+![Room](https://img.shields.io/badge/Room%2FSQLite-4285F4?style=flat-square&logo=google&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-555555?style=flat-square)
+![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
+
+<details>
+<summary><b>🔧 Hardware SDKs & Enterprise Integrations</b> (click to expand)</summary>
+<br/>
+
+![Zebra EMDK](https://img.shields.io/badge/Zebra_EMDK-FF6600?style=flat-square)
+![DataWedge](https://img.shields.io/badge/DataWedge-FF6600?style=flat-square)
+![NLS SDK](https://img.shields.io/badge/NLS_SDK-006400?style=flat-square)
+![Honeywell SDK](https://img.shields.io/badge/Honeywell_SDK-E2231A?style=flat-square)
+![Cipherlab](https://img.shields.io/badge/Cipherlab-333333?style=flat-square)
+![ESC/POS](https://img.shields.io/badge/ESC%2FPOS-333333?style=flat-square)
+![ZPL](https://img.shields.io/badge/ZPL-333333?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+
+</details>
+
+<br/>
+
+## 💼 Work Experience
+
+### 🏢 Android Developer — Sat Kabir Logistics
+![Duration](https://img.shields.io/badge/Apr_2026–Present-2ea44f?style=flat-square)
+![Location](https://img.shields.io/badge/Gurugram,_India-0077B5?style=flat-square)
+
+- Building an **ERP Android app** for precast industry workflows, integrated with Newland HHT devices via NLS SDK
+- Building a **full-cycle WMS in Flutter** — inward, sorting, grading, picklist, shipment, returns — for 2–3 enterprise clients
+- Architected MVVM + Repository pattern, reducing feature development time by **30%**
+- Offline-first capability using Room & SQLite; optimized for low memory footprint on HHT devices
+- Integrated RESTful APIs for real-time sync, scan persistence, and multi-module ERP/WMS communication
+
+`Android` `Flutter` `Kotlin` `Java` `MVVM` `Room/SQLite` `NLS SDK` `Newland HHT` `REST APIs`
+
+<br/>
+
+### 🏢 Software Developer (Android & Flutter) — Seabird Logisolutions
+![Duration](https://img.shields.io/badge/Jul_2023–Apr_2026-0077B5?style=flat-square)
+![Apps](https://img.shields.io/badge/7_Production_Apps-FF6F00?style=flat-square)
+
+- Engineered and deployed **7 production apps** used daily by **50–200 field staff** across logistics & warehouse ops
+- Built HHT scanning workflows using Zebra EMDK, DataWedge & ML Kit — reducing manual verification time by **25–50%**
+- Implemented Bluetooth printing with multi-printer support (ESC/POS, ZPL) across Zebra & Honeywell HHT devices
+- Built POD module with image capture and real-time REST API sync
+- Integrated Firebase for auth, real-time DB, push notifications, and analytics
+- Owned features end-to-end — from design through Play Store deployment
+
+`Flutter` `Android` `Java` `Kotlin` `BLoC` `Provider` `MVVM` `Firebase` `Zebra EMDK` `DataWedge` `Honeywell SDK`
+
+<br/>
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%">
 
-### 📦 Warehouse & Logistics
-- Inward, GRN and putaway
-- Inventory and bin management
-- Picking, packing and dispatch
-- Barcode scanning on HHT devices
-- Challan, labels and thermal printing
+### 🏭 WMS-GNOSIS — Warehouse Management System
+![Seabird](https://img.shields.io/badge/Seabird_Logisolutions-Enterprise_Deploy-FF6F00?style=flat-square)
+![Client](https://img.shields.io/badge/Client-Vantara-0077B5?style=flat-square)
 
-</td>
-<td width="50%" valign="top">
+`Flutter` `Java` `Provider` `MVVM` `Zebra EMDK` `Honeywell SDK` `ESC/POS` `ZPL`
 
-### 🏭 Business & Operations
-- Precast manufacturing workflows
-- Production and quality tracking
-- Transport and trip management
-- Proof of Delivery and billing
-- CRM and task-management apps
+Scalable WMS deployed across **3 warehouses**, running on smartphones + Honeywell HHT + Zebra HHT. Cross-platform Flutter app with native Java bridge integration. ML Kit-based crate scanning (**95% accuracy**), Bluetooth printing (**1,000+ labels/day**), **500+ daily scans**, **20+ vehicle dispatches/day**, **70% reduction** in manual data entry.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="100%">
 
-### ⚙️ Mobile Engineering
-- Feature-first architecture
-- MVVM, BLoC and Riverpod
-- REST API integration
-- Secure session management
-- Local storage and offline sync
+### 🤝 WMS Vendor Portal
+![Seabird](https://img.shields.io/badge/Seabird_Logisolutions-Enterprise_Deploy-FF6F00?style=flat-square)
+![Client](https://img.shields.io/badge/Client-Vantara-0077B5?style=flat-square)
+
+`Flutter` `Provider` `REST APIs`
+
+Vendor-facing app for large-scale industrial logistics. Role-based access, PO creation & tracking, challan and invoice generation — full goods movement workflow end-to-end.
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="100%">
 
-### 🔌 Hardware & Integrations
-- Zebra DataWedge / EMDK
-- Newland NLS SDK
-- Honeywell and CipherLab devices
-- Bluetooth printer integration
-- Firebase and push notifications
+### 🏗️ ERP + NLS HHT Integration *(SKL — In Production)*
+![SKL](https://img.shields.io/badge/Sat_Kabir_Logistics-In_Production-2ea44f?style=flat-square)
+
+`Android` `Java` `Kotlin` `NLS SDK` `Newland HHT` `MVVM` `REST APIs`
+
+Enterprise ERP for precast manufacturing — natively integrated with Newland HHT via NLS SDK. Full workflow: inward → grading → picklist → dispatch.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🎫 SLL-Ticketing — Internal Support Ticket App
+![Play Store](https://img.shields.io/badge/Google_Play-Published-3DDC84?style=flat-square&logo=googleplay&logoColor=white)
+
+`Flutter` `MVVM` `REST APIs` `Firebase`
+
+Internal support ticket app with secure login, analytics dashboards, and full ticket lifecycle management.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 👤 SLL-VMS — Visitor Management System
+![Play Store](https://img.shields.io/badge/Google_Play-Published-3DDC84?style=flat-square&logo=googleplay&logoColor=white)
+
+`Android` `Java` `REST APIs` `Material Design`
+
+Visitor data capture and management with intuitive UI and robust API integration.
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 💸 Seabird-EMS — Expense Management System
+![Play Store](https://img.shields.io/badge/Google_Play-Published-3DDC84?style=flat-square&logo=googleplay&logoColor=white)
+
+`Android` `Java` `REST APIs` `Firebase`
+
+Expense tracking app with real-time workflows and responsive enterprise UI.
 
 </td>
 </tr>
 </table>
 
-## Technology Stack
-
-<div align="center">
-
-**Languages & Mobile**
-
-<img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,java,androidstudio&theme=dark" alt="Dart, Flutter, Kotlin, Java and Android Studio"/>
-
-**Backend, Data & Developer Tools**
-
-<img src="https://skillicons.dev/icons?i=firebase,sqlite,git,github,postman,vscode&theme=dark" alt="Firebase, SQLite, Git, GitHub, Postman and VS Code"/>
-
-</div>
-
-| Area | Tools & Technologies |
-|---|---|
-| Architecture | Clean Architecture, Feature-First, MVVM, Repository Pattern |
-| State management | BLoC / Cubit, Riverpod, Provider |
-| Networking | Dio, REST APIs, JSON |
-| Local data | Drift, SQLite, Hive, SharedPreferences |
-| Security | Flutter Secure Storage, token-based authentication |
-| Device integration | Zebra DataWedge / EMDK, Newland NLS SDK, Honeywell, CipherLab |
-| Printing | Bluetooth, ESC/POS, ZPL |
-| Services | Firebase, FCM, Google Maps |
-
-## Selected Impact
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/500%2B-Daily%20warehouse%20scans-2563EB?style=for-the-badge" alt="500 plus daily warehouse scans"/>
-<img src="https://img.shields.io/badge/1%2C000%2B-Labels%20printed%20per%20day-0F766E?style=for-the-badge" alt="1000 plus labels printed per day"/>
-<img src="https://img.shields.io/badge/70%25-Less%20manual%20data%20entry-15803D?style=for-the-badge" alt="70 percent less manual data entry"/>
-<img src="https://img.shields.io/badge/95%25-Reported%20ML%20Kit%20accuracy-7C3AED?style=for-the-badge" alt="95 percent reported ML Kit accuracy"/>
-
-</div>
-
-<sub>Operational figures are based on project-level metrics documented for warehouse deployments; results may vary by workflow and deployment.</sub>
-
-## Featured Projects
-
-### 01 · SKL-WMS — Warehouse Management System
-<sub>Flutter · Dart · Riverpod · REST APIs · Newland HHT</sub>
-
-Warehouse execution workflows covering vehicle gate entry, inward operations, GRN verification, putaway, bin/location management, inventory validation, picking, dispatch, and gatepass operations. Includes native Newland handheld barcode integration and Bluetooth thermal printing.
-
-### 02 · PRECAST ERP — Manufacturing Operations
-<sub>Flutter · Dart · Riverpod · REST APIs · Newland HHT · ML Kit</sub>
-
-Manufacturing workflows covering concrete batching, mold scanning, casting, curing and WIP monitoring, quality approvals, purchase orders, GRN processing, supplier payment milestones, and dispatch. Also includes HHT scanning and document generation.
-
-### 03 · KBR TMS — Transport Management System
-<sub>Flutter · Dart · Provider / Riverpod · Hive · REST APIs · Google Maps · Firebase FCM</sub>
-
-Transport-management work covering vehicle placement and allocation, trip execution, map-based tracking, digital Proof of Delivery, billing and approval workflows, notifications, and offline caching.
-
-### 04 · Enterprise HHT WMS
-<sub>Flutter · Android · Java · Zebra DataWedge / EMDK · Honeywell SDK</sub>
-
-Warehouse scanning workflows for inward, sorting, grading, picklists, shipment handling, and returns. Integrated hardware scanning, scan history, print preview, Bluetooth label printing, and API synchronization.
-
-### 05 · WMS Vendor Portal
-<sub>Flutter · Provider · REST APIs</sub>
-
-A vendor-facing application for role-based access, purchase-order creation and tracking, challan and invoice generation, and goods-movement workflows.
-
-### 06 · CRM-AL — AtharvLogix CRM
-<sub>Flutter · BLoC · Dio · GetIt · Drift · GoRouter</sub>
-
-Cross-platform CRM foundation designed for employee and customer workflows, with offline data entry and synchronization, secure session handling, and feature-first Clean Architecture.
-
-### 07 · Tazalo Tasks
-<sub>Flutter · Riverpod · GoRouter · Dio · Flutter Secure Storage</sub>
-
-Task-management application with multi-workspace switching, task views for personal, assigned, review, and overdue work, notifications, and authenticated multi-company API integration.
-
-### 08 · Sales CRM
-<sub>Flutter · BLoC / Cubit · Drift · GetIt · GoRouter</sub>
-
-Offline-first CRM implementation with authentication, session management, and API-integrated lead listing using feature-first Clean Architecture.
-
-### 09 · SLL-Ticketing
-<sub>Flutter · MVVM · REST APIs · Firebase</sub>
-
-Internal support-ticket application with secure login, analytics dashboards, ticket lifecycle management, and operational workflows.
-
-<sub>Some projects are proprietary enterprise applications. Internal source code, customer data, and private deployment details are intentionally not published.</sub>
-
-## Experience
-
-### Android Developer · Sat Kabir Logistics
-<sub>April 2026 — Present · Gurugram, India</sub>
-
-- Developing production Android and Flutter applications for warehouse, manufacturing, and logistics operations.
-- Delivering WMS workflows across inward, GRN, putaway, inventory, picking, dispatch, and gatepass operations.
-- Integrating Newland handheld devices through the NLS SDK for native barcode-scanning workflows.
-- Implementing precast ERP workflows across production, quality control, procurement, and dispatch.
-- Building REST API integrations, local persistence, and device-level scanning / printing capabilities.
-
-### Software Developer (Android & Flutter) · Seabird Logisolutions
-<sub>July 2023 — April 2026</sub>
-
-- Engineered and deployed 7 production applications used by 50–200 field staff across logistics and warehouse operations.
-- Built HHT scanning workflows using Zebra EMDK, DataWedge, and ML Kit.
-- Implemented Bluetooth printing with ESC/POS and ZPL support across Zebra and Honeywell devices.
-- Developed Proof of Delivery workflows with image capture and REST API synchronization.
-- Integrated Firebase authentication, real-time database, push notifications, and analytics.
-- Owned features end-to-end, from implementation through Play Store deployment.
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VinayTiwari023&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=34D399&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayTiwari023&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1" alt="Most used languages"/>
-
-<img src="https://ghchart.rshah.org/1F6FEB/VinayTiwari023" width="100%" style="max-width:760px" alt="GitHub contribution chart"/>
-
-</div>
-
-## Let's Connect
-
-I'm interested in **Android / Flutter engineering opportunities** where I can contribute to product development, enterprise mobility, and reliable business applications.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Explore%20my%20portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://vinay-portfolio-beryl.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-kumar-android)
-[![Email](https://img.shields.io/badge/Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vk222992@gmail.com)
-
-**Gurugram, India** · Open to relevant opportunities
+*(Each project card is single-column so it stacks cleanly on phone-width screens instead of forcing a side-scroll.)*
 
 <br/>
 
-*“Build for the real world. Make every scan, sync, and screen count.”*
+## 📈 GitHub Activity
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=VinayTiwari023&color=1F6FEB&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/VinayTiwari023?style=for-the-badge&color=1F6FEB&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/VinayTiwari023?style=for-the-badge&color=2ea44f&labelColor=0D1117)
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/1F6FEB/VinayTiwari023" width="100%" style="max-width:760px" alt="Vinay's GitHub contribution chart"/>
+
+</div>
+
+*(Badges pull straight from GitHub's API via shields.io, and the heatmap is a single static SVG — both are far more stable than the old stats-card widgets, which depend on third-party servers that go down or rate-limit.)*
+
+<br/>
+
+## 🎯 What I'm Looking For
+
+Android / Flutter roles — enterprise mobility or product-based — where I can keep owning features end-to-end, from hardware integration through to Play Store release. Open to relocating within India for the right opportunity.
+
+📍 Gurugram, India · **15-day notice period**
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=80&section=footer" width="100%"/>
+
+*"Curious enough to read the SDK docs. Practical enough to ship before the deadline."*
 
 </div>

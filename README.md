@@ -1,183 +1,363 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Vinay Kumar — Android and Flutter Engineer" width="100%"/>
+<img src="./assets/operations-hero.jpg" width="100%" alt="Warehouse technology, handheld barcode scanning and logistics operations"/>
 
-### Android & Flutter Engineer · Enterprise Mobility Specialist
+<br/>
 
-Building production applications for **warehouse, manufacturing, transport, and business operations**.
+# VINAY KUMAR
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://vinay-portfolio-beryl.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-kumar-android)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vk222992@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinayTiwari023)
+### ANDROID & FLUTTER ENGINEER
+
+**I turn complex operations into dependable mobile products.**
+
+<br/>
+
+<a href="https://vinay-portfolio-beryl.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-0B1727?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/vinay-kumar-android"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:vk222992@gmail.com"><img src="https://img.shields.io/badge/LET'S%20TALK-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/VinayTiwari023"><img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/ENTERPRISE%20MOBILITY-183B56?style=flat-square"/>
+<img src="https://img.shields.io/badge/WMS%20%C2%B7%20ERP%20%C2%B7%20TMS-0F766E?style=flat-square"/>
 
 </div>
 
 ---
 
-## About
+<div align="center">
 
-I'm an **Android and Flutter Engineer** with 3+ years of experience building and supporting enterprise mobile applications.
+<sub>01 &nbsp; / &nbsp; THE ENGINEER BEHIND THE SCREEN</sub>
 
-My work focuses on turning complex operational processes into reliable mobile workflows — from barcode-driven warehouse operations and manufacturing ERP to transport management, offline-first apps, API integrations, and thermal printing.
+</div>
 
-- **Core domains:** WMS · ERP · TMS · CRM · Enterprise mobility
-- **Mobile development:** Flutter, Dart, Android, Kotlin, Java
-- **Device integrations:** Zebra, Honeywell, Newland, CipherLab
-- **Engineering focus:** Clean Architecture, MVVM, BLoC, Riverpod, offline-first systems
-- **Based in:** Gurugram, India
+## More than screens. Systems that move work forward.
 
-> I enjoy solving the engineering problems that make enterprise apps dependable: device compatibility, scan reliability, synchronization, printing, and resilient API workflows.
+I'm an **Android and Flutter Engineer with 3+ years of experience** building mobile applications for warehouse, manufacturing, logistics, and business operations.
 
-## What I Build
+My sweet spot is where software meets the physical world: handheld barcode scanners, warehouse workflows, Bluetooth printers, offline data, APIs, and the people who depend on them every day.
+
+I work across the complete mobile lifecycle—from understanding an operational problem and shaping the architecture to integrating devices, testing edge cases, and shipping releases.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 📦 Warehouse & Logistics
-- Inward, GRN and putaway
-- Inventory and bin management
-- Picking, packing and dispatch
-- Barcode scanning on HHT devices
-- Challan, labels and thermal printing
+**01 — OPERATIONS**
+
+Warehouse, inventory, inbound, picking, dispatch, manufacturing and transport workflows.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🏭 Business & Operations
-- Precast manufacturing workflows
-- Production and quality tracking
-- Transport and trip management
-- Proof of Delivery and billing
-- CRM and task-management apps
+**02 — MOBILE**
+
+Flutter, native Android, Kotlin, Java, scalable architecture and state management.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### ⚙️ Mobile Engineering
-- Feature-first architecture
-- MVVM, BLoC and Riverpod
-- REST API integration
-- Secure session management
-- Local storage and offline sync
+**03 — INTEGRATION**
 
-</td>
-<td width="50%" valign="top">
-
-### 🔌 Hardware & Integrations
-- Zebra DataWedge / EMDK
-- Newland NLS SDK
-- Honeywell and CipherLab devices
-- Bluetooth printer integration
-- Firebase and push notifications
+HHT scanners, REST APIs, offline storage, synchronization and thermal printing.
 
 </td>
 </tr>
 </table>
 
-## Technology Stack
-
 <div align="center">
 
-**Languages & Mobile**
+<sub>02 &nbsp; / &nbsp; HOW I THINK ABOUT SYSTEMS</sub>
 
-<img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,java,androidstudio&theme=dark" alt="Dart, Flutter, Kotlin, Java and Android Studio"/>
-
-**Backend, Data & Developer Tools**
-
-<img src="https://skillicons.dev/icons?i=firebase,sqlite,git,github,postman,vscode&theme=dark" alt="Firebase, SQLite, Git, GitHub, Postman and VS Code"/>
+<img src="./assets/engineering-map.svg" width="100%" alt="Engineering flow from handheld devices to mobile applications, integrations and enterprise operations"/>
 
 </div>
 
-| Area | Tools & Technologies |
-|---|---|
-| Architecture | Clean Architecture, Feature-First, MVVM, Repository Pattern |
-| State management | BLoC / Cubit, Riverpod, Provider |
-| Networking | Dio, REST APIs, JSON |
-| Local data | Drift, SQLite, Hive, SharedPreferences |
-| Security | Flutter Secure Storage, token-based authentication |
-| Device integration | Zebra DataWedge / EMDK, Newland NLS SDK, Honeywell, CipherLab |
-| Printing | Bluetooth, ESC/POS, ZPL |
-| Services | Firebase, FCM, Google Maps |
-
-## Selected Impact
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/500%2B-Daily%20warehouse%20scans-2563EB?style=for-the-badge" alt="500 plus daily warehouse scans"/>
-<img src="https://img.shields.io/badge/1%2C000%2B-Labels%20printed%20per%20day-0F766E?style=for-the-badge" alt="1000 plus labels printed per day"/>
-<img src="https://img.shields.io/badge/70%25-Less%20manual%20data%20entry-15803D?style=for-the-badge" alt="70 percent less manual data entry"/>
-<img src="https://img.shields.io/badge/95%25-Reported%20ML%20Kit%20accuracy-7C3AED?style=for-the-badge" alt="95 percent reported ML Kit accuracy"/>
+<sub>03 &nbsp; / &nbsp; SELECTED WORK</sub>
+
+# Products & Platforms
+
+*Different industries. One consistent focus: dependable mobile workflows.*
 
 </div>
 
-<sub>Operational figures are based on project-level metrics documented for warehouse deployments; results may vary by workflow and deployment.</sub>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Featured Projects
+### 01 / SKL-WMS
 
-### 01 · SKL-WMS — Warehouse Management System
-<sub>Flutter · Dart · Riverpod · REST APIs · Newland HHT</sub>
+**Warehouse Management System**
 
-Warehouse execution workflows covering vehicle gate entry, inward operations, GRN verification, putaway, bin/location management, inventory validation, picking, dispatch, and gatepass operations. Includes native Newland handheld barcode integration and Bluetooth thermal printing.
+A warehouse execution platform covering vehicle gate entry, inward, GRN verification, putaway, bin and location management, inventory validation, picking, dispatch, and gatepass workflows.
 
-### 02 · PRECAST ERP — Manufacturing Operations
-<sub>Flutter · Dart · Riverpod · REST APIs · Newland HHT · ML Kit</sub>
+**Flutter** · **Riverpod** · **REST APIs** · **Newland HHT**
 
-Manufacturing workflows covering concrete batching, mold scanning, casting, curing and WIP monitoring, quality approvals, purchase orders, GRN processing, supplier payment milestones, and dispatch. Also includes HHT scanning and document generation.
+</td>
+<td width="50%" valign="top">
 
-### 03 · KBR TMS — Transport Management System
-<sub>Flutter · Dart · Provider / Riverpod · Hive · REST APIs · Google Maps · Firebase FCM</sub>
+### 02 / PRECAST ERP
 
-Transport-management work covering vehicle placement and allocation, trip execution, map-based tracking, digital Proof of Delivery, billing and approval workflows, notifications, and offline caching.
+**Manufacturing Operations**
 
-### 04 · Enterprise HHT WMS
-<sub>Flutter · Android · Java · Zebra DataWedge / EMDK · Honeywell SDK</sub>
+Mobile workflows for concrete batching, mold scanning, casting, curing and WIP monitoring, quality approvals, purchase orders, GRN processing, supplier payment milestones, and dispatch.
 
-Warehouse scanning workflows for inward, sorting, grading, picklists, shipment handling, and returns. Integrated hardware scanning, scan history, print preview, Bluetooth label printing, and API synchronization.
+**Flutter** · **Riverpod** · **Newland HHT** · **ML Kit**
 
-### 05 · WMS Vendor Portal
-<sub>Flutter · Provider · REST APIs</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A vendor-facing application for role-based access, purchase-order creation and tracking, challan and invoice generation, and goods-movement workflows.
+### 03 / KBR TMS
 
-### 06 · CRM-AL — AtharvLogix CRM
-<sub>Flutter · BLoC · Dio · GetIt · Drift · GoRouter</sub>
+**Transport Management System**
 
-Cross-platform CRM foundation designed for employee and customer workflows, with offline data entry and synchronization, secure session handling, and feature-first Clean Architecture.
+Transport workflows for vehicle placement and allocation, trip execution, map-based tracking, digital Proof of Delivery, customer and supplier billing, approval flows, notifications, and offline caching.
 
-### 07 · Tazalo Tasks
-<sub>Flutter · Riverpod · GoRouter · Dio · Flutter Secure Storage</sub>
+**Flutter** · **Provider** · **Riverpod** · **Hive** · **Google Maps**
 
-Task-management application with multi-workspace switching, task views for personal, assigned, review, and overdue work, notifications, and authenticated multi-company API integration.
+</td>
+<td width="50%" valign="top">
 
-### 08 · Sales CRM
-<sub>Flutter · BLoC / Cubit · Drift · GetIt · GoRouter</sub>
+### 04 / ENTERPRISE HHT WMS
 
-Offline-first CRM implementation with authentication, session management, and API-integrated lead listing using feature-first Clean Architecture.
+**Warehouse Device Integrations**
 
-### 09 · SLL-Ticketing
-<sub>Flutter · MVVM · REST APIs · Firebase</sub>
+Scanner-driven inward, sorting, grading, picklists, shipment and returns. Includes native hardware integration, scan history, Bluetooth label printing, and API synchronization.
 
-Internal support-ticket application with secure login, analytics dashboards, ticket lifecycle management, and operational workflows.
+**Flutter** · **Android** · **Java** · **Zebra** · **Honeywell**
 
-<sub>Some projects are proprietary enterprise applications. Internal source code, customer data, and private deployment details are intentionally not published.</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Experience
+### 05 / WMS VENDOR PORTAL
+
+**Vendor & Goods Movement**
+
+Role-based vendor workflows for purchase-order creation and tracking, challan and invoice generation, and goods movement.
+
+**Flutter** · **Provider** · **REST APIs**
+
+</td>
+<td width="50%" valign="top">
+
+### 06 / CRM-AL
+
+**AtharvLogix CRM**
+
+Cross-platform CRM foundation designed for employee and customer workflows, offline data entry and synchronization, and secure session handling.
+
+**Flutter** · **BLoC** · **Drift** · **GetIt** · **GoRouter**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 07 / TAZALO TASKS
+
+**Workspace-based Task Management**
+
+Multi-company workspace switching, task views for mine, assigned, review and overdue work, notifications, and authenticated API integration.
+
+**Flutter** · **Riverpod** · **Dio** · **GoRouter**
+
+</td>
+<td width="50%" valign="top">
+
+### 08 / SALES CRM
+
+**Offline-first Lead Management**
+
+Feature-first CRM implementation with authentication, session management, and API-integrated lead listing.
+
+**Flutter** · **BLoC / Cubit** · **Drift** · **Dio**
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Other shipped applications</b> — internal tools and enterprise apps</summary>
+
+- **SLL-Ticketing** — support tickets, analytics and ticket lifecycle management.
+- **SLL-VMS** — visitor data capture and management.
+- **Seabird-EMS** — expense management workflows.
+
+Some projects are proprietary enterprise applications. Internal source code, customer data, and private deployment details are intentionally not published.
+
+</details>
+
+---
+
+<div align="center">
+
+<sub>04 &nbsp; / &nbsp; ENGINEERING TOOLKIT</sub>
+
+# Tools of the trade
+
+</div>
+
+<table>
+<tr>
+<td width="24%" valign="top">
+
+**Languages**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=dart,kotlin,java&theme=dark" alt="Dart Kotlin Java"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Mobile**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio&theme=dark" alt="Flutter Android Studio"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Architecture**
+
+</td>
+<td>
+
+**Clean Architecture** &nbsp; · &nbsp; **Feature-first** &nbsp; · &nbsp; **MVVM** &nbsp; · &nbsp; **Repository Pattern**
+
+**BLoC / Cubit** &nbsp; · &nbsp; **Riverpod** &nbsp; · &nbsp; **Provider** &nbsp; · &nbsp; **GetIt** &nbsp; · &nbsp; **GoRouter**
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Data & APIs**
+
+</td>
+<td>
+
+**Dio** &nbsp; · &nbsp; **REST APIs** &nbsp; · &nbsp; **Drift** &nbsp; · &nbsp; **SQLite** &nbsp; · &nbsp; **Hive**
+
+**SharedPreferences** &nbsp; · &nbsp; **Flutter Secure Storage** &nbsp; · &nbsp; **Firebase** &nbsp; · &nbsp; **FCM**
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Hardware**
+
+</td>
+<td>
+
+**Zebra DataWedge / EMDK** &nbsp; · &nbsp; **Newland NLS SDK**
+
+**Honeywell** &nbsp; · &nbsp; **CipherLab** &nbsp; · &nbsp; **Bluetooth Printing** &nbsp; · &nbsp; **ESC/POS** &nbsp; · &nbsp; **ZPL**
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Workflow**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Git GitHub Postman VS Code"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<sub>05 &nbsp; / &nbsp; ENGINEERING IN THE REAL WORLD</sub>
+
+# Impact from production workflows
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+# 500+
+
+**Daily scans**
+
+</td>
+<td align="center" width="25%">
+
+# 1,000+
+
+**Labels / day**
+
+</td>
+<td align="center" width="25%">
+
+# 70%
+
+**Less manual entry**
+
+</td>
+<td align="center" width="25%">
+
+# 95%
+
+**ML Kit accuracy**
+
+</td>
+</tr>
+</table>
+
+<sub>These are previously documented project-level figures from warehouse deployments, not universal guarantees. Actual results vary by workflow and deployment.</sub>
+
+---
+
+<div align="center">
+
+<sub>06 &nbsp; / &nbsp; THE JOURNEY</sub>
+
+# Experience
+
+</div>
 
 ### Android Developer · Sat Kabir Logistics
-<sub>April 2026 — Present · Gurugram, India</sub>
+
+**APR 2026 — PRESENT** &nbsp; · &nbsp; **GURUGRAM, INDIA**
 
 - Developing production Android and Flutter applications for warehouse, manufacturing, and logistics operations.
 - Delivering WMS workflows across inward, GRN, putaway, inventory, picking, dispatch, and gatepass operations.
 - Integrating Newland handheld devices through the NLS SDK for native barcode-scanning workflows.
 - Implementing precast ERP workflows across production, quality control, procurement, and dispatch.
-- Building REST API integrations, local persistence, and device-level scanning / printing capabilities.
+- Building REST API integrations, local persistence, and device-level scanning and printing capabilities.
 
 ### Software Developer (Android & Flutter) · Seabird Logisolutions
-<sub>July 2023 — April 2026</sub>
+
+**JUL 2023 — APR 2026**
 
 - Engineered and deployed 7 production applications used by 50–200 field staff across logistics and warehouse operations.
 - Built HHT scanning workflows using Zebra EMDK, DataWedge, and ML Kit.
@@ -186,31 +366,44 @@ Internal support-ticket application with secure login, analytics dashboards, tic
 - Integrated Firebase authentication, real-time database, push notifications, and analytics.
 - Owned features end-to-end, from implementation through Play Store deployment.
 
-## GitHub Activity
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VinayTiwari023&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=34D399&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayTiwari023&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1" alt="Most used languages"/>
+<sub>07 &nbsp; / &nbsp; OPEN SOURCE FOOTPRINT</sub>
 
-<img src="https://ghchart.rshah.org/1F6FEB/VinayTiwari023" width="100%" style="max-width:760px" alt="GitHub contribution chart"/>
+# The GitHub side of things
 
-</div>
-
-## Let's Connect
-
-I'm interested in **Android / Flutter engineering opportunities** where I can contribute to product development, enterprise mobility, and reliable business applications.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Explore%20my%20portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://vinay-portfolio-beryl.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-kumar-android)
-[![Email](https://img.shields.io/badge/Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vk222992@gmail.com)
-
-**Gurugram, India** · Open to relevant opportunities
+<img src="https://github-readme-stats.vercel.app/api?username=VinayTiwari023&show_icons=true&hide_border=true&bg_color=0B1421&title_color=60A5FA&icon_color=34D399&text_color=D7E1EC&rank_icon=github" height="170" alt="GitHub statistics"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayTiwari023&layout=compact&hide_border=true&bg_color=0B1421&title_color=60A5FA&text_color=D7E1EC" height="170" alt="Most used languages"/>
 
 <br/>
 
-*“Build for the real world. Make every scan, sync, and screen count.”*
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VinayTiwari023&hide_border=true&background=0B1421&ring=60A5FA&fire=34D399&currStreakLabel=60A5FA&sideLabels=D7E1EC&dates=94A3B8" width="80%" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>08 &nbsp; / &nbsp; THE NEXT CONNECTION</sub>
+
+# Have a real-world problem to solve?
+
+I'm interested in Android and Flutter engineering opportunities where mobile software, operational workflows, and thoughtful engineering come together.
+
+**Gurugram, India** &nbsp; · &nbsp; Open to relevant opportunities
+
+<br/>
+
+<a href="https://vinay-portfolio-beryl.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-0B1727?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vinay-kumar-android"><img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:vk222992@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20ME-0F766E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+*I build for the people moving things forward.*
 
 </div>
